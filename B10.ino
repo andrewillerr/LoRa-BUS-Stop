@@ -73,6 +73,7 @@ void setup() {
     Serial.println("Starting failed!");
     while (1);
   }
+  //Serial.println("waiting!");
   Serial.println("waiting!");
   display.setCursor(0,10);
   display.println("B.10...waiting!");

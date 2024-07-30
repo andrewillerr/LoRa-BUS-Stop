@@ -1,7 +1,13 @@
 # Security Policy
 
 ## Supported Arduino IDE
- 
+
+ESP-32
+Arduino UNO
+TTGO LoRa 32
+LCD Display
+Heltec32
+
 Bus stop in rural ares
 This section is to inform you which version the project is.
 This is now supported with security updates.
@@ -9,9 +15,9 @@ This is now supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.8.x   | :white_check_mark: |
-| 1.7.x   | :x:                |
-| 1.6.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+| 00000   | :x:                |
+| 00000   | :x:                |
+| 00000   | :x:                |
 
 ## Reporting a Vulnerability
 

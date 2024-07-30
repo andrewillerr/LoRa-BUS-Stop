@@ -21,7 +21,7 @@
 #define DI0     26   // GPIO26 -- SX1278's IRQ(Interrupt Request)
 #define BAND  915E6
 
-//Test
+//Test 7
 //433E6 for Asia
 //866E6 for Europe
 //915E6 for North America

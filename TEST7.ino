@@ -17,7 +17,7 @@
 // #include <TinyGPS++.h>  
 // #include <SoftwareSerial.h>
 // SoftwareSerial GPS(3, 1); // RX, TX
-
+//test7
 
 
 float latitude, longitude, speed;

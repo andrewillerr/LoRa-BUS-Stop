@@ -1,7 +1,7 @@
 Smart Bus System for Rural Areas
 
 Students
-Mr. Nitiphon Pongpaew  Mr. Prommin Buaphan  Mr. Theerapat Kunsirikul Mr. Phanthong Sonok  Mr. Parinya Luenam  Mr. Tharathep Phummee  Mr. Narubet Thossaratch
+Mr. Nitipon Pongpaew  Mr. Prommin Buaphan  Mr. Theerapat Kunsirikul Mr. Pantong Sonok  Mr. Parinya Luenam  Mr. Tharatep Phummee  Mr. Narubet Thossaratch
 Mr. Namchai Wongchancharoen  Mr. Wayu Eungsakul  Mr. Navin Wannawanakorn  Mr. Warawut Wongtakhi
 
 Advisors
